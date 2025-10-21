@@ -5,7 +5,13 @@
 
 | Filename                                                  | Comparison result          | Left Size | Right Size |
 |-----------------------------------------------------------|----------------------------|-----------|------------|
-| assemblies.json                                           | Text files are different   | 51.0 KB   | 51.0 KB    |
+| assemblies.json                                           | Text files are different   | 55.9 KB   | 51.0 KB    |
+
+* Left: _jsxamstore/primary_
+* Right: _pyxamstore_
+
+| Filename                                                  | Comparison result          | Left Size | Right Size |
+|-----------------------------------------------------------|----------------------------|-----------|------------|
 | System.ComponentModel.dll                                 | Binary files are identical | 4.00 KB   | 4.00 KB    |
 | System.dll                                                | Binary files are identical | 4.00 KB   | 4.00 KB    |
 | System.Threading.Thread.dll                               | Binary files are identical | 4.00 KB   | 4.00 KB    |
