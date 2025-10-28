@@ -133,3 +133,10 @@ Hash 32     Hash 64             Blob ID  Blob idx  Name
 0xc8a662e9  0x77b654e585b55834  000      0131      Java.Interop
 0xb65adef9  0x1500eaa8245f6c5b  000      0132      Mono.Android.Runtime
 0xcf3163e6  0x01accec39cafe242  000      0133      Mono.Android
+0x2814a96c  0x1fc00515e8ce7513  001      0000      System.Collections.Concurrent
+0x1a61054f  0x7198e33f4794aa70  001      0001      System.Collections
+0x5833866d  0x76377add7c28e313  001      0002      System.Collections.Immutable
+0xad6f1e8a  0x6b0ff375198b9c17  001      0003      System.Private.CoreLib
+0x9930ee42  0x2069600c4d9d1cfa  001      0004      System.Text.Encodings.Web
+0xc82afec1  0xa88e1f1ebcb62fba  001      0005      System.Text.Json
+0x61c036ca  0x860e407c9991dd9b  001      0006      System.Text.RegularExpressions

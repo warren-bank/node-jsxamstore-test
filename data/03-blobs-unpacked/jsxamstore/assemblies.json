@@ -6,8 +6,52 @@
                 "header": {
                     "version": 1,
                     "lec": 134,
-                    "gec": 134,
+                    "gec": 141,
                     "store_id": 0
+                }
+            }
+        },
+        {
+            "assemblies.armeabi_v7a.blob": {
+                "store_idx": 1,
+                "header": {
+                    "version": 1,
+                    "lec": 7,
+                    "gec": 0,
+                    "store_id": 1
+                }
+            }
+        },
+        {
+            "assemblies.arm64_v8a.blob": {
+                "store_idx": 2,
+                "header": {
+                    "version": 1,
+                    "lec": 7,
+                    "gec": 0,
+                    "store_id": 1
+                }
+            }
+        },
+        {
+            "assemblies.x86.blob": {
+                "store_idx": 3,
+                "header": {
+                    "version": 1,
+                    "lec": 7,
+                    "gec": 0,
+                    "store_id": 1
+                }
+            }
+        },
+        {
+            "assemblies.x86_64.blob": {
+                "store_idx": 4,
+                "header": {
+                    "version": 1,
+                    "lec": 7,
+                    "gec": 0,
+                    "store_id": 1
                 }
             }
         }
@@ -1486,6 +1530,314 @@
             "hash64": "0x01accec39cafe242",
             "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\primary\\Mono.Android.dll",
             "lz4_desc_idx": 32
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Collections.Concurrent",
+            "store_id": 1,
+            "blob_idx": 0,
+            "hash32": "0x2814a96c",
+            "hash64": "0x1fc00515e8ce7513",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Collections.Concurrent.dll",
+            "lz4_desc_idx": 108
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Collections",
+            "store_id": 1,
+            "blob_idx": 1,
+            "hash32": "0x1a61054f",
+            "hash64": "0x7198e33f4794aa70",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Collections.dll",
+            "lz4_desc_idx": 110
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Collections.Immutable",
+            "store_id": 1,
+            "blob_idx": 2,
+            "hash32": "0x5833866d",
+            "hash64": "0x76377add7c28e313",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Collections.Immutable.dll",
+            "lz4_desc_idx": 109
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Private.CoreLib",
+            "store_id": 1,
+            "blob_idx": 3,
+            "hash32": "0xad6f1e8a",
+            "hash64": "0x6b0ff375198b9c17",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Private.CoreLib.dll",
+            "lz4_desc_idx": 111
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Text.Encodings.Web",
+            "store_id": 1,
+            "blob_idx": 4,
+            "hash32": "0x9930ee42",
+            "hash64": "0x2069600c4d9d1cfa",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Text.Encodings.Web.dll",
+            "lz4_desc_idx": 112
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Text.Json",
+            "store_id": 1,
+            "blob_idx": 5,
+            "hash32": "0xc82afec1",
+            "hash64": "0xa88e1f1ebcb62fba",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Text.Json.dll",
+            "lz4_desc_idx": 113
+        },
+        {
+            "store_idx": 1,
+            "lz4": true,
+            "name": "System.Text.RegularExpressions",
+            "store_id": 1,
+            "blob_idx": 6,
+            "hash32": "0x61c036ca",
+            "hash64": "0x860e407c9991dd9b",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm\\System.Text.RegularExpressions.dll",
+            "lz4_desc_idx": 114
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Collections.Concurrent",
+            "store_id": 1,
+            "blob_idx": 0,
+            "hash32": "0x2814a96c",
+            "hash64": "0x1fc00515e8ce7513",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Collections.Concurrent.dll",
+            "lz4_desc_idx": 101
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Collections",
+            "store_id": 1,
+            "blob_idx": 1,
+            "hash32": "0x1a61054f",
+            "hash64": "0x7198e33f4794aa70",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Collections.dll",
+            "lz4_desc_idx": 103
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Collections.Immutable",
+            "store_id": 1,
+            "blob_idx": 2,
+            "hash32": "0x5833866d",
+            "hash64": "0x76377add7c28e313",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Collections.Immutable.dll",
+            "lz4_desc_idx": 102
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Private.CoreLib",
+            "store_id": 1,
+            "blob_idx": 3,
+            "hash32": "0xad6f1e8a",
+            "hash64": "0x6b0ff375198b9c17",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Private.CoreLib.dll",
+            "lz4_desc_idx": 104
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Text.Encodings.Web",
+            "store_id": 1,
+            "blob_idx": 4,
+            "hash32": "0x9930ee42",
+            "hash64": "0x2069600c4d9d1cfa",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Text.Encodings.Web.dll",
+            "lz4_desc_idx": 105
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Text.Json",
+            "store_id": 1,
+            "blob_idx": 5,
+            "hash32": "0xc82afec1",
+            "hash64": "0xa88e1f1ebcb62fba",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Text.Json.dll",
+            "lz4_desc_idx": 106
+        },
+        {
+            "store_idx": 2,
+            "lz4": true,
+            "name": "System.Text.RegularExpressions",
+            "store_id": 1,
+            "blob_idx": 6,
+            "hash32": "0x61c036ca",
+            "hash64": "0x860e407c9991dd9b",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\arm64\\System.Text.RegularExpressions.dll",
+            "lz4_desc_idx": 107
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Collections.Concurrent",
+            "store_id": 1,
+            "blob_idx": 0,
+            "hash32": "0x2814a96c",
+            "hash64": "0x1fc00515e8ce7513",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Collections.Concurrent.dll",
+            "lz4_desc_idx": 145
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Collections",
+            "store_id": 1,
+            "blob_idx": 1,
+            "hash32": "0x1a61054f",
+            "hash64": "0x7198e33f4794aa70",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Collections.dll",
+            "lz4_desc_idx": 147
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Collections.Immutable",
+            "store_id": 1,
+            "blob_idx": 2,
+            "hash32": "0x5833866d",
+            "hash64": "0x76377add7c28e313",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Collections.Immutable.dll",
+            "lz4_desc_idx": 146
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Private.CoreLib",
+            "store_id": 1,
+            "blob_idx": 3,
+            "hash32": "0xad6f1e8a",
+            "hash64": "0x6b0ff375198b9c17",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Private.CoreLib.dll",
+            "lz4_desc_idx": 148
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Text.Encodings.Web",
+            "store_id": 1,
+            "blob_idx": 4,
+            "hash32": "0x9930ee42",
+            "hash64": "0x2069600c4d9d1cfa",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Text.Encodings.Web.dll",
+            "lz4_desc_idx": 149
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Text.Json",
+            "store_id": 1,
+            "blob_idx": 5,
+            "hash32": "0xc82afec1",
+            "hash64": "0xa88e1f1ebcb62fba",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Text.Json.dll",
+            "lz4_desc_idx": 150
+        },
+        {
+            "store_idx": 3,
+            "lz4": true,
+            "name": "System.Text.RegularExpressions",
+            "store_id": 1,
+            "blob_idx": 6,
+            "hash32": "0x61c036ca",
+            "hash64": "0x860e407c9991dd9b",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86\\System.Text.RegularExpressions.dll",
+            "lz4_desc_idx": 151
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Collections.Concurrent",
+            "store_id": 1,
+            "blob_idx": 0,
+            "hash32": "0x2814a96c",
+            "hash64": "0x1fc00515e8ce7513",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Collections.Concurrent.dll",
+            "lz4_desc_idx": 152
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Collections",
+            "store_id": 1,
+            "blob_idx": 1,
+            "hash32": "0x1a61054f",
+            "hash64": "0x7198e33f4794aa70",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Collections.dll",
+            "lz4_desc_idx": 154
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Collections.Immutable",
+            "store_id": 1,
+            "blob_idx": 2,
+            "hash32": "0x5833866d",
+            "hash64": "0x76377add7c28e313",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Collections.Immutable.dll",
+            "lz4_desc_idx": 153
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Private.CoreLib",
+            "store_id": 1,
+            "blob_idx": 3,
+            "hash32": "0xad6f1e8a",
+            "hash64": "0x6b0ff375198b9c17",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Private.CoreLib.dll",
+            "lz4_desc_idx": 155
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Text.Encodings.Web",
+            "store_id": 1,
+            "blob_idx": 4,
+            "hash32": "0x9930ee42",
+            "hash64": "0x2069600c4d9d1cfa",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Text.Encodings.Web.dll",
+            "lz4_desc_idx": 156
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Text.Json",
+            "store_id": 1,
+            "blob_idx": 5,
+            "hash32": "0xc82afec1",
+            "hash64": "0xa88e1f1ebcb62fba",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Text.Json.dll",
+            "lz4_desc_idx": 157
+        },
+        {
+            "store_idx": 4,
+            "lz4": true,
+            "name": "System.Text.RegularExpressions",
+            "store_id": 1,
+            "blob_idx": 6,
+            "hash32": "0x61c036ca",
+            "hash64": "0x860e407c9991dd9b",
+            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\jsxamstore\\x86_64\\System.Text.RegularExpressions.dll",
+            "lz4_desc_idx": 158
         }
     ]
 }

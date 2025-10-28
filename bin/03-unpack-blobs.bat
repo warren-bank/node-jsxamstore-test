@@ -9,15 +9,23 @@ rem :: -------------------------------------------
 
 set out="%out_root%\jsxamstore"
 
-rem :: unpack dlls from primary blob with jsxamstore
+rem :: unpack dlls with jsxamstore
 jsxamstore unpack -d %dir% -f -o %out%
 
 rem :: -------------------------------------------
 
-rem :: unpack dlls from primary blob with pyxamstore,
-rem :: which is hard coded to output to: "%CD%\out"
-cd /D "%out_root%"
-pyxamstore unpack -d %dir% -f
-rename "out" "pyxamstore"
+set out="%out_root%\pyxamstore"
+
+rem :: unpack dlls with pyxamstore,
+rem :: which is hard coded to output:
+rem ::   %CD%/out/*.dll
+rem ::   %CD%/assemblies.json
+rem :: where:
+rem ::   %CD%/assemblies.json contains relative file paths:
+rem ::   %CD%/out/*.dll
+if exist %out% rmdir /Q /S %out%
+mkdir %out%
+cd /D %out%
+pyxamstore unpack -d %dir% -f -a "arm"
 
 rem :: -------------------------------------------

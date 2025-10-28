@@ -10,7 +10,7 @@ rem :: -------------------------------------------
 set cfg="%cfg_root%\jsxamstore\assemblies.json"
 set out="%out_root%\jsxamstore"
 
-rem :: repack dlls from primary blob with jsxamstore
+rem :: repack dlls with jsxamstore
 jsxamstore pack -c %cfg% -o %out%
 
 rem :: -------------------------------------------
@@ -18,11 +18,17 @@ rem :: -------------------------------------------
 set cfg="%cfg_root%\pyxamstore\assemblies.json"
 set out="%out_root%\pyxamstore"
 
-rem :: repack dlls from primary blob with pyxamstore,
-rem :: which is hard coded to output to: "%CD%"
-if exist "%out%" rmdir /Q /S "%out%"
-mkdir "%out%"
-cd /D "%out%"
+rem :: repack dlls with pyxamstore,
+rem :: which is hard coded to read input:
+rem ::   %CD%/out/*.dll
+rem :: and is hard coded to output:
+rem ::   %CD%/*.new
+cd /D "%cfg_root%\pyxamstore"
 pyxamstore pack -c %cfg%
+
+rem :: relocate new assemblies and manifest
+if exist %out% rmdir /Q /S %out%
+mkdir %out%
+for /F "tokens=*" %%f in ('dir /B *.new') do move "%%f" %out%\
 
 rem :: -------------------------------------------

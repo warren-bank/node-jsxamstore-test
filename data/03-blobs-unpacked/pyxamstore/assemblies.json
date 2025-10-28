@@ -9,6 +9,16 @@
                     "store_id": 0
                 }
             }
+        },
+        {
+            "assemblies.armeabi_v7a.blob": {
+                "header": {
+                    "version": 1,
+                    "lec": 7,
+                    "gec": 0,
+                    "store_id": 1
+                }
+            }
         }
     ],
     "assemblies": [
@@ -19,7 +29,7 @@
             "blob_idx": 0,
             "hash32": "0x33e88be1",
             "hash64": "0x0ea6dd31d50a0038",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ar\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ar/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 100
         },
         {
@@ -29,7 +39,7 @@
             "blob_idx": 1,
             "hash32": "0x0335cdbc",
             "hash64": "0xb7bcc599c5ce144b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ca\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ca/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 115
         },
         {
@@ -39,7 +49,7 @@
             "blob_idx": 2,
             "hash32": "0x15502fa0",
             "hash64": "0x2296b6c41bbdfe48",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\cs\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/cs/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 116
         },
         {
@@ -49,7 +59,7 @@
             "blob_idx": 3,
             "hash32": "0xd7f95f5a",
             "hash64": "0x2161bf315d42ddd8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\da\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/da/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 117
         },
         {
@@ -59,7 +69,7 @@
             "blob_idx": 4,
             "hash32": "0xd664cdf2",
             "hash64": "0xd3f51e91f4fba27c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\de\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/de/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 118
         },
         {
@@ -69,7 +79,7 @@
             "blob_idx": 5,
             "hash32": "0xaa4e51ff",
             "hash64": "0x762e07d427a84f11",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\el\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/el/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 119
         },
         {
@@ -79,7 +89,7 @@
             "blob_idx": 6,
             "hash32": "0x3b4797e5",
             "hash64": "0xd6ce3a99c4c55a3a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\es\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/es/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 120
         },
         {
@@ -89,7 +99,7 @@
             "blob_idx": 7,
             "hash32": "0x464305ed",
             "hash64": "0x431c03bd573d14ff",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\fi\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/fi/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 121
         },
         {
@@ -99,7 +109,7 @@
             "blob_idx": 8,
             "hash32": "0x5cabc9a4",
             "hash64": "0xf29fa538054fcb43",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\fr\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/fr/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 122
         },
         {
@@ -109,7 +119,7 @@
             "blob_idx": 9,
             "hash32": "0xda4773dd",
             "hash64": "0x7b9bd0432ee0775b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\he\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/he/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 123
         },
         {
@@ -119,7 +129,7 @@
             "blob_idx": 10,
             "hash32": "0x1f6bf43d",
             "hash64": "0x892b6353f9ade8f4",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\hi\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/hi/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 124
         },
         {
@@ -129,7 +139,7 @@
             "blob_idx": 11,
             "hash32": "0x781074ce",
             "hash64": "0xd6c1775e69862f5e",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\hr\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/hr/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 125
         },
         {
@@ -139,7 +149,7 @@
             "blob_idx": 12,
             "hash32": "0x6c96614d",
             "hash64": "0xa4fd6909806d9c67",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\hu\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/hu/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 126
         },
         {
@@ -149,7 +159,7 @@
             "blob_idx": 13,
             "hash32": "0xf29c5384",
             "hash64": "0xa84150c49e58dcd9",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\id\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/id/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 127
         },
         {
@@ -159,7 +169,7 @@
             "blob_idx": 14,
             "hash32": "0x79d00016",
             "hash64": "0x673f79faf756ee56",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\it\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/it/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 128
         },
         {
@@ -169,7 +179,7 @@
             "blob_idx": 15,
             "hash32": "0x74d743bf",
             "hash64": "0xe846da1c780aeb9c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ja\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ja/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 129
         },
         {
@@ -179,7 +189,7 @@
             "blob_idx": 16,
             "hash32": "0x8030853e",
             "hash64": "0x1dc7c302481e97d3",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ko\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ko/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 130
         },
         {
@@ -189,7 +199,7 @@
             "blob_idx": 17,
             "hash32": "0xdbb50d93",
             "hash64": "0xe0cddeca55a01581",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ms\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ms/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 131
         },
         {
@@ -199,7 +209,7 @@
             "blob_idx": 18,
             "hash32": "0x6be1e423",
             "hash64": "0xddfa46462d825401",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\nb\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/nb/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 132
         },
         {
@@ -209,7 +219,7 @@
             "blob_idx": 19,
             "hash32": "0x905caa9d",
             "hash64": "0xd651ac9394bc7162",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\nl\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/nl/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 133
         },
         {
@@ -219,7 +229,7 @@
             "blob_idx": 20,
             "hash32": "0xf5861a4f",
             "hash64": "0x16cde9e27a8d02d7",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\pl\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/pl/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 134
         },
         {
@@ -229,7 +239,7 @@
             "blob_idx": 21,
             "hash32": "0xd96cf6f7",
             "hash64": "0x526c2ff200a2a3b6",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\pt-BR\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/pt-BR/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 135
         },
         {
@@ -239,7 +249,7 @@
             "blob_idx": 22,
             "hash32": "0xfc5f7d36",
             "hash64": "0x2b2042103982255c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\pt\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/pt/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 136
         },
         {
@@ -249,7 +259,7 @@
             "blob_idx": 23,
             "hash32": "0x810c11c2",
             "hash64": "0x6a0dd878d2516688",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ro\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ro/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 137
         },
         {
@@ -259,7 +269,7 @@
             "blob_idx": 24,
             "hash32": "0xabdea79a",
             "hash64": "0xadeeb6fb059919bf",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\ru\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/ru/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 138
         },
         {
@@ -269,7 +279,7 @@
             "blob_idx": 25,
             "hash32": "0x963ac2da",
             "hash64": "0x76fa805c508080cb",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\sk\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/sk/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 139
         },
         {
@@ -279,7 +289,7 @@
             "blob_idx": 26,
             "hash32": "0x5e33306d",
             "hash64": "0x8debc9ef5e8a8bf3",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\sv\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/sv/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 140
         },
         {
@@ -289,7 +299,7 @@
             "blob_idx": 27,
             "hash32": "0x8873eb17",
             "hash64": "0x2c6fd2bce55e3c11",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\th\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/th/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 141
         },
         {
@@ -299,7 +309,7 @@
             "blob_idx": 28,
             "hash32": "0x8d3fac99",
             "hash64": "0x76c2d8d8a2289331",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\tr\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/tr/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 142
         },
         {
@@ -309,7 +319,7 @@
             "blob_idx": 29,
             "hash32": "0xa7042ae3",
             "hash64": "0x5d747951d4a816db",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\uk\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/uk/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 143
         },
         {
@@ -319,7 +329,7 @@
             "blob_idx": 30,
             "hash32": "0xd328ac54",
             "hash64": "0x9a6f1213fa5cb0d8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\vi\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/vi/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 144
         },
         {
@@ -329,7 +339,7 @@
             "blob_idx": 31,
             "hash32": "0x06c2cd46",
             "hash64": "0xe4dcd8d787589fcf",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\zh-HK\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/zh-HK/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 159
         },
         {
@@ -339,7 +349,7 @@
             "blob_idx": 32,
             "hash32": "0x3b3271e4",
             "hash64": "0x9abd386fcccf90a8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\zh-Hans\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/zh-Hans/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 160
         },
         {
@@ -349,7 +359,7 @@
             "blob_idx": 33,
             "hash32": "0x5ed5f779",
             "hash64": "0x986ffb4ee955d726",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\zh-Hant\\Microsoft.Maui.Controls.resources.dll",
+            "file": "out/zh-Hant/Microsoft.Maui.Controls.resources.dll",
             "lz4_desc_idx": 161
         },
         {
@@ -359,7 +369,7 @@
             "blob_idx": 34,
             "hash32": "0x17969339",
             "hash64": "0x583a3a4ac2a7a0f8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\_Microsoft.Android.Resource.Designer.dll",
+            "file": "out/_Microsoft.Android.Resource.Designer.dll",
             "lz4_desc_idx": 99
         },
         {
@@ -369,7 +379,7 @@
             "blob_idx": 35,
             "hash32": "0x239cf51b",
             "hash64": "0x7758081c784b4930",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\CommunityToolkit.Maui.dll",
+            "file": "out/CommunityToolkit.Maui.dll",
             "lz4_desc_idx": 1
         },
         {
@@ -379,7 +389,7 @@
             "blob_idx": 36,
             "hash32": "0xaaf9aad7",
             "hash64": "0xca016bdea6b19f68",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\CommunityToolkit.Maui.Core.dll",
+            "file": "out/CommunityToolkit.Maui.Core.dll",
             "lz4_desc_idx": 0
         },
         {
@@ -389,7 +399,7 @@
             "blob_idx": 37,
             "hash32": "0x4868cc7b",
             "hash64": "0xe70cbf55c4f508dd",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\CommunityToolkit.Mvvm.dll",
+            "file": "out/CommunityToolkit.Mvvm.dll",
             "lz4_desc_idx": 2
         },
         {
@@ -399,7 +409,7 @@
             "blob_idx": 38,
             "hash32": "0x8fb9f4b2",
             "hash64": "0x9baf9b8c02e4f27c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.AspNetCore.Components.dll",
+            "file": "out/Microsoft.AspNetCore.Components.dll",
             "lz4_desc_idx": 8
         },
         {
@@ -409,7 +419,7 @@
             "blob_idx": 39,
             "hash32": "0x9a206149",
             "hash64": "0x3cda14f22443862d",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.AspNetCore.Components.Forms.dll",
+            "file": "out/Microsoft.AspNetCore.Components.Forms.dll",
             "lz4_desc_idx": 4
         },
         {
@@ -419,7 +429,7 @@
             "blob_idx": 40,
             "hash32": "0xac65a11d",
             "hash64": "0xd6194e6b4dbb6351",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.AspNetCore.Components.Web.dll",
+            "file": "out/Microsoft.AspNetCore.Components.Web.dll",
             "lz4_desc_idx": 5
         },
         {
@@ -429,7 +439,7 @@
             "blob_idx": 41,
             "hash32": "0x62a37b76",
             "hash64": "0x600ace3ab475a5df",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.AspNetCore.Components.WebView.dll",
+            "file": "out/Microsoft.AspNetCore.Components.WebView.dll",
             "lz4_desc_idx": 7
         },
         {
@@ -439,7 +449,7 @@
             "blob_idx": 42,
             "hash32": "0x2fec3262",
             "hash64": "0xb4766b9b07e27743",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.AspNetCore.Components.WebView.Maui.dll",
+            "file": "out/Microsoft.AspNetCore.Components.WebView.Maui.dll",
             "lz4_desc_idx": 6
         },
         {
@@ -449,7 +459,7 @@
             "blob_idx": 43,
             "hash32": "0x8d52b2e2",
             "hash64": "0x30808ba1c00a455a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Configuration.dll",
+            "file": "out/Microsoft.Extensions.Configuration.dll",
             "lz4_desc_idx": 10
         },
         {
@@ -459,7 +469,7 @@
             "blob_idx": 44,
             "hash32": "0x871c9c1b",
             "hash64": "0x327cc89a39d5f53c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Configuration.Abstractions.dll",
+            "file": "out/Microsoft.Extensions.Configuration.Abstractions.dll",
             "lz4_desc_idx": 9
         },
         {
@@ -469,7 +479,7 @@
             "blob_idx": 45,
             "hash32": "0xf5f4f1f0",
             "hash64": "0x24df3b84c8b75da8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.DependencyInjection.dll",
+            "file": "out/Microsoft.Extensions.DependencyInjection.dll",
             "lz4_desc_idx": 12
         },
         {
@@ -479,7 +489,7 @@
             "blob_idx": 46,
             "hash32": "0x3d548d92",
             "hash64": "0xd59a58c406411f89",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+            "file": "out/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
             "lz4_desc_idx": 11
         },
         {
@@ -489,7 +499,7 @@
             "blob_idx": 47,
             "hash32": "0x9a83ffe1",
             "hash64": "0x2f2186e9506155c0",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+            "file": "out/Microsoft.Extensions.FileProviders.Abstractions.dll",
             "lz4_desc_idx": 13
         },
         {
@@ -499,7 +509,7 @@
             "blob_idx": 48,
             "hash32": "0x56abe34a",
             "hash64": "0xd6da155e291b5a2a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.FileProviders.Composite.dll",
+            "file": "out/Microsoft.Extensions.FileProviders.Composite.dll",
             "lz4_desc_idx": 14
         },
         {
@@ -509,7 +519,7 @@
             "blob_idx": 49,
             "hash32": "0xfffb240a",
             "hash64": "0x097be3f26326c97c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.FileProviders.Embedded.dll",
+            "file": "out/Microsoft.Extensions.FileProviders.Embedded.dll",
             "lz4_desc_idx": 15
         },
         {
@@ -519,7 +529,7 @@
             "blob_idx": 50,
             "hash32": "0x7b864712",
             "hash64": "0xa7358ae968287843",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.FileProviders.Physical.dll",
+            "file": "out/Microsoft.Extensions.FileProviders.Physical.dll",
             "lz4_desc_idx": 16
         },
         {
@@ -529,7 +539,7 @@
             "blob_idx": 51,
             "hash32": "0x5aaa0216",
             "hash64": "0xeec7f35113509a08",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.FileSystemGlobbing.dll",
+            "file": "out/Microsoft.Extensions.FileSystemGlobbing.dll",
             "lz4_desc_idx": 17
         },
         {
@@ -539,7 +549,7 @@
             "blob_idx": 52,
             "hash32": "0xebb03ce7",
             "hash64": "0xda606ffbe0f22afd",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Localization.dll",
+            "file": "out/Microsoft.Extensions.Localization.dll",
             "lz4_desc_idx": 19
         },
         {
@@ -549,7 +559,7 @@
             "blob_idx": 53,
             "hash32": "0xd620355c",
             "hash64": "0xd54d4f3b162247c8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Localization.Abstractions.dll",
+            "file": "out/Microsoft.Extensions.Localization.Abstractions.dll",
             "lz4_desc_idx": 18
         },
         {
@@ -559,7 +569,7 @@
             "blob_idx": 54,
             "hash32": "0x20216150",
             "hash64": "0xa004d1504ccd66be",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Logging.dll",
+            "file": "out/Microsoft.Extensions.Logging.dll",
             "lz4_desc_idx": 21
         },
         {
@@ -569,7 +579,7 @@
             "blob_idx": 55,
             "hash32": "0x82a8237c",
             "hash64": "0x98b1013215cd365e",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Logging.Abstractions.dll",
+            "file": "out/Microsoft.Extensions.Logging.Abstractions.dll",
             "lz4_desc_idx": 20
         },
         {
@@ -579,7 +589,7 @@
             "blob_idx": 56,
             "hash32": "0x2f0980eb",
             "hash64": "0x5b0a571be53243a5",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Options.dll",
+            "file": "out/Microsoft.Extensions.Options.dll",
             "lz4_desc_idx": 22
         },
         {
@@ -589,7 +599,7 @@
             "blob_idx": 57,
             "hash32": "0x57a5e912",
             "hash64": "0xb23ca48abd74d61e",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Extensions.Primitives.dll",
+            "file": "out/Microsoft.Extensions.Primitives.dll",
             "lz4_desc_idx": 23
         },
         {
@@ -599,7 +609,7 @@
             "blob_idx": 58,
             "hash32": "0xd09dc5a0",
             "hash64": "0x2698b329b26ed1d9",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.JSInterop.dll",
+            "file": "out/Microsoft.JSInterop.dll",
             "lz4_desc_idx": 24
         },
         {
@@ -609,7 +619,7 @@
             "blob_idx": 59,
             "hash32": "0xe28e5915",
             "hash64": "0xdd0d79d32c2eec06",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Maui.Controls.Compatibility.dll",
+            "file": "out/Microsoft.Maui.Controls.Compatibility.dll",
             "lz4_desc_idx": 25
         },
         {
@@ -619,7 +629,7 @@
             "blob_idx": 60,
             "hash32": "0x93dba8a1",
             "hash64": "0x8c10f49539bd0c64",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Maui.Controls.dll",
+            "file": "out/Microsoft.Maui.Controls.dll",
             "lz4_desc_idx": 27
         },
         {
@@ -629,7 +639,7 @@
             "blob_idx": 61,
             "hash32": "0xa4672f3b",
             "hash64": "0x1aa7e99ec2d2709a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Maui.Controls.Xaml.dll",
+            "file": "out/Microsoft.Maui.Controls.Xaml.dll",
             "lz4_desc_idx": 26
         },
         {
@@ -639,7 +649,7 @@
             "blob_idx": 62,
             "hash32": "0x80bd55ad",
             "hash64": "0x8a2b8315b36616ac",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Maui.dll",
+            "file": "out/Microsoft.Maui.dll",
             "lz4_desc_idx": 30
         },
         {
@@ -649,7 +659,7 @@
             "blob_idx": 63,
             "hash32": "0xaa8a4878",
             "hash64": "0x2f98a5385a7b1ed8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Maui.Essentials.dll",
+            "file": "out/Microsoft.Maui.Essentials.dll",
             "lz4_desc_idx": 28
         },
         {
@@ -659,7 +669,7 @@
             "blob_idx": 64,
             "hash32": "0xa7008e0b",
             "hash64": "0xe70da84600bb4e86",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Microsoft.Maui.Graphics.dll",
+            "file": "out/Microsoft.Maui.Graphics.dll",
             "lz4_desc_idx": 29
         },
         {
@@ -669,7 +679,7 @@
             "blob_idx": 65,
             "hash32": "0xb664f2bc",
             "hash64": "0xfb21fff5848f4baa",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\MudBlazor.dll",
+            "file": "out/MudBlazor.dll",
             "lz4_desc_idx": 33
         },
         {
@@ -679,7 +689,7 @@
             "blob_idx": 66,
             "hash32": "0xa2e0939b",
             "hash64": "0x4288cfb749e4c631",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Activity.dll",
+            "file": "out/Xamarin.AndroidX.Activity.dll",
             "lz4_desc_idx": 70
         },
         {
@@ -689,7 +699,7 @@
             "blob_idx": 67,
             "hash32": "0x3dbaaf8f",
             "hash64": "0x8168042fd44a7c7a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.AppCompat.dll",
+            "file": "out/Xamarin.AndroidX.AppCompat.dll",
             "lz4_desc_idx": 72
         },
         {
@@ -699,7 +709,7 @@
             "blob_idx": 68,
             "hash32": "0x57924923",
             "hash64": "0x6cbfa6390d64d704",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.AppCompat.AppCompatResources.dll",
+            "file": "out/Xamarin.AndroidX.AppCompat.AppCompatResources.dll",
             "lz4_desc_idx": 71
         },
         {
@@ -709,7 +719,7 @@
             "blob_idx": 69,
             "hash32": "0xc235e84d",
             "hash64": "0xc405fd76067d19e1",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.CardView.dll",
+            "file": "out/Xamarin.AndroidX.CardView.dll",
             "lz4_desc_idx": 73
         },
         {
@@ -719,7 +729,7 @@
             "blob_idx": 70,
             "hash32": "0xe1ae15d6",
             "hash64": "0xb041653c70d157d3",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Collection.dll",
+            "file": "out/Xamarin.AndroidX.Collection.dll",
             "lz4_desc_idx": 74
         },
         {
@@ -729,7 +739,7 @@
             "blob_idx": 71,
             "hash32": "0x53cefc50",
             "hash64": "0x2248f922dc398cba",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.CoordinatorLayout.dll",
+            "file": "out/Xamarin.AndroidX.CoordinatorLayout.dll",
             "lz4_desc_idx": 75
         },
         {
@@ -739,7 +749,7 @@
             "blob_idx": 72,
             "hash32": "0xc86c06e3",
             "hash64": "0x90bf592ea44f6673",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Core.dll",
+            "file": "out/Xamarin.AndroidX.Core.dll",
             "lz4_desc_idx": 76
         },
         {
@@ -749,7 +759,7 @@
             "blob_idx": 73,
             "hash32": "0x6188ba7e",
             "hash64": "0x9d630238642d465c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.CursorAdapter.dll",
+            "file": "out/Xamarin.AndroidX.CursorAdapter.dll",
             "lz4_desc_idx": 77
         },
         {
@@ -759,7 +769,7 @@
             "blob_idx": 74,
             "hash32": "0x2568904f",
             "hash64": "0x8df4cb880b10061b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.CustomView.dll",
+            "file": "out/Xamarin.AndroidX.CustomView.dll",
             "lz4_desc_idx": 78
         },
         {
@@ -769,7 +779,7 @@
             "blob_idx": 75,
             "hash32": "0xb18af942",
             "hash64": "0x0c1ccf42c3c21c44",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.DrawerLayout.dll",
+            "file": "out/Xamarin.AndroidX.DrawerLayout.dll",
             "lz4_desc_idx": 79
         },
         {
@@ -779,7 +789,7 @@
             "blob_idx": 76,
             "hash32": "0x6a96652d",
             "hash64": "0xc1b8989a7ad20fb0",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Fragment.dll",
+            "file": "out/Xamarin.AndroidX.Fragment.dll",
             "lz4_desc_idx": 80
         },
         {
@@ -789,7 +799,7 @@
             "blob_idx": 77,
             "hash32": "0x146817a2",
             "hash64": "0x2da6b911e3063621",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Lifecycle.Common.dll",
+            "file": "out/Xamarin.AndroidX.Lifecycle.Common.dll",
             "lz4_desc_idx": 81
         },
         {
@@ -799,7 +809,7 @@
             "blob_idx": 78,
             "hash32": "0xd90e5f5a",
             "hash64": "0x58d75d486341cfb2",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll",
+            "file": "out/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll",
             "lz4_desc_idx": 82
         },
         {
@@ -809,7 +819,7 @@
             "blob_idx": 79,
             "hash32": "0x785e97f1",
             "hash64": "0xf5c6c68c9e45303b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Lifecycle.ViewModel.dll",
+            "file": "out/Xamarin.AndroidX.Lifecycle.ViewModel.dll",
             "lz4_desc_idx": 83
         },
         {
@@ -819,7 +829,7 @@
             "blob_idx": 80,
             "hash32": "0xffd4917f",
             "hash64": "0xd841015ed86f6aab",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll",
+            "file": "out/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll",
             "lz4_desc_idx": 84
         },
         {
@@ -829,7 +839,7 @@
             "blob_idx": 81,
             "hash32": "0x6bcd3296",
             "hash64": "0xf5b1dfc36cac272b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Loader.dll",
+            "file": "out/Xamarin.AndroidX.Loader.dll",
             "lz4_desc_idx": 85
         },
         {
@@ -839,7 +849,7 @@
             "blob_idx": 82,
             "hash32": "0xb63fa9f0",
             "hash64": "0xfb7ada42d3d42cf8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Navigation.Common.dll",
+            "file": "out/Xamarin.AndroidX.Navigation.Common.dll",
             "lz4_desc_idx": 86
         },
         {
@@ -849,7 +859,7 @@
             "blob_idx": 83,
             "hash32": "0xd930cda0",
             "hash64": "0xebe54bb02d623e5d",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Navigation.Fragment.dll",
+            "file": "out/Xamarin.AndroidX.Navigation.Fragment.dll",
             "lz4_desc_idx": 87
         },
         {
@@ -859,7 +869,7 @@
             "blob_idx": 84,
             "hash32": "0xc774da4f",
             "hash64": "0x77e5fbdaa2fda2e0",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Navigation.Runtime.dll",
+            "file": "out/Xamarin.AndroidX.Navigation.Runtime.dll",
             "lz4_desc_idx": 88
         },
         {
@@ -869,7 +879,7 @@
             "blob_idx": 85,
             "hash32": "0xea4fb52e",
             "hash64": "0xe771bb8960dd8b46",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.Navigation.UI.dll",
+            "file": "out/Xamarin.AndroidX.Navigation.UI.dll",
             "lz4_desc_idx": 89
         },
         {
@@ -879,7 +889,7 @@
             "blob_idx": 86,
             "hash32": "0xc92a6809",
             "hash64": "0x33baa1739ba646bd",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.RecyclerView.dll",
+            "file": "out/Xamarin.AndroidX.RecyclerView.dll",
             "lz4_desc_idx": 90
         },
         {
@@ -889,7 +899,7 @@
             "blob_idx": 87,
             "hash32": "0x52114ed3",
             "hash64": "0x197cf449ebe482d1",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.SavedState.dll",
+            "file": "out/Xamarin.AndroidX.SavedState.dll",
             "lz4_desc_idx": 91
         },
         {
@@ -899,7 +909,7 @@
             "blob_idx": 88,
             "hash32": "0x6947f945",
             "hash64": "0x30e2543832f52197",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.SwipeRefreshLayout.dll",
+            "file": "out/Xamarin.AndroidX.SwipeRefreshLayout.dll",
             "lz4_desc_idx": 92
         },
         {
@@ -909,7 +919,7 @@
             "blob_idx": 89,
             "hash32": "0xaa107fc4",
             "hash64": "0x9ae7d54b986d05c6",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.ViewPager.dll",
+            "file": "out/Xamarin.AndroidX.ViewPager.dll",
             "lz4_desc_idx": 93
         },
         {
@@ -919,7 +929,7 @@
             "blob_idx": 90,
             "hash32": "0x60d97228",
             "hash64": "0x813d54296a634f33",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.AndroidX.ViewPager2.dll",
+            "file": "out/Xamarin.AndroidX.ViewPager2.dll",
             "lz4_desc_idx": 94
         },
         {
@@ -929,7 +939,7 @@
             "blob_idx": 91,
             "hash32": "0x6c13413e",
             "hash64": "0x29e10a7f7d88a002",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.Google.Android.Material.dll",
+            "file": "out/Xamarin.Google.Android.Material.dll",
             "lz4_desc_idx": 95
         },
         {
@@ -939,7 +949,7 @@
             "blob_idx": 92,
             "hash32": "0x409e66d8",
             "hash64": "0xbadf06394d106fcc",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.Kotlin.StdLib.dll",
+            "file": "out/Xamarin.Kotlin.StdLib.dll",
             "lz4_desc_idx": 96
         },
         {
@@ -949,7 +959,7 @@
             "blob_idx": 93,
             "hash32": "0x9b500441",
             "hash64": "0x2e6a1a9a18463545",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Xamarin.KotlinX.Coroutines.Core.Jvm.dll",
+            "file": "out/Xamarin.KotlinX.Coroutines.Core.Jvm.dll",
             "lz4_desc_idx": 97
         },
         {
@@ -959,7 +969,7 @@
             "blob_idx": 94,
             "hash32": "0x2e9b53d9",
             "hash64": "0xe5f3c44a0c4db8d2",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\YamlDotNet.dll",
+            "file": "out/YamlDotNet.dll",
             "lz4_desc_idx": 98
         },
         {
@@ -969,7 +979,7 @@
             "blob_idx": 95,
             "hash32": "0xb549a21f",
             "hash64": "0x372d57523885c67a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\TextComparePro.dll",
+            "file": "out/TextComparePro.dll",
             "lz4_desc_idx": 69
         },
         {
@@ -979,7 +989,7 @@
             "blob_idx": 96,
             "hash32": "0xe2098b0b",
             "hash64": "0xec090a90408c8cd4",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Collections.NonGeneric.dll",
+            "file": "out/System.Collections.NonGeneric.dll",
             "lz4_desc_idx": 34
         },
         {
@@ -989,7 +999,7 @@
             "blob_idx": 97,
             "hash32": "0x7fb38cd2",
             "hash64": "0x46d2fb5e161b6285",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Collections.Specialized.dll",
+            "file": "out/System.Collections.Specialized.dll",
             "lz4_desc_idx": 35
         },
         {
@@ -999,7 +1009,7 @@
             "blob_idx": 98,
             "hash32": "0x097ed3c0",
             "hash64": "0x41d5705f4239b194",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.ComponentModel.Annotations.dll",
+            "file": "out/System.ComponentModel.Annotations.dll",
             "lz4_desc_idx": 36
         },
         {
@@ -1009,7 +1019,7 @@
             "blob_idx": 99,
             "hash32": "0xb660be12",
             "hash64": "0xecc8e986518c9786",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.ComponentModel.Primitives.dll",
+            "file": "out/System.ComponentModel.Primitives.dll",
             "lz4_desc_idx": 37
         },
         {
@@ -1019,7 +1029,7 @@
             "blob_idx": 100,
             "hash32": "0x408b17f4",
             "hash64": "0x3a5e0299f7e7ad93",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.ComponentModel.TypeConverter.dll",
+            "file": "out/System.ComponentModel.TypeConverter.dll",
             "lz4_desc_idx": 38
         },
         {
@@ -1029,7 +1039,7 @@
             "blob_idx": 101,
             "hash32": "0x0c38ff48",
             "hash64": "0x39a7562737acb67e",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.ComponentModel.dll",
+            "file": "out/System.ComponentModel.dll",
             "lz4_desc_idx": 39
         },
         {
@@ -1039,7 +1049,7 @@
             "blob_idx": 102,
             "hash32": "0x7ec9ffe9",
             "hash64": "0xd77dbb1e38cd3d6f",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Console.dll",
+            "file": "out/System.Console.dll",
             "lz4_desc_idx": 40
         },
         {
@@ -1049,7 +1059,7 @@
             "blob_idx": 103,
             "hash32": "0xdf6f3870",
             "hash64": "0x703b87d46f3aa082",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Diagnostics.DiagnosticSource.dll",
+            "file": "out/System.Diagnostics.DiagnosticSource.dll",
             "lz4_desc_idx": 41
         },
         {
@@ -1059,7 +1069,7 @@
             "blob_idx": 104,
             "hash32": "0x7b6f419e",
             "hash64": "0x5e2ede51877147f2",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Diagnostics.TraceSource.dll",
+            "file": "out/System.Diagnostics.TraceSource.dll",
             "lz4_desc_idx": 42
         },
         {
@@ -1069,7 +1079,7 @@
             "blob_idx": 105,
             "hash32": "0x317d5b75",
             "hash64": "0x4d4f74fcdfa6c35f",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.IO.Compression.Brotli.dll",
+            "file": "out/System.IO.Compression.Brotli.dll",
             "lz4_desc_idx": 43
         },
         {
@@ -1079,7 +1089,7 @@
             "blob_idx": 106,
             "hash32": "0x2e394f87",
             "hash64": "0xae2d28465e8e1b2f",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.IO.Compression.dll",
+            "file": "out/System.IO.Compression.dll",
             "lz4_desc_idx": 44
         },
         {
@@ -1089,7 +1099,7 @@
             "blob_idx": 107,
             "hash32": "0xf60736e2",
             "hash64": "0x40d7e4104a437f21",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.IO.FileSystem.Watcher.dll",
+            "file": "out/System.IO.FileSystem.Watcher.dll",
             "lz4_desc_idx": 45
         },
         {
@@ -1099,7 +1109,7 @@
             "blob_idx": 108,
             "hash32": "0x6ec71a65",
             "hash64": "0x3a1cea1e912fa117",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Linq.Expressions.dll",
+            "file": "out/System.Linq.Expressions.dll",
             "lz4_desc_idx": 46
         },
         {
@@ -1109,7 +1119,7 @@
             "blob_idx": 109,
             "hash32": "0x4eed2679",
             "hash64": "0x64e71ccf51a90a5a",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Linq.dll",
+            "file": "out/System.Linq.dll",
             "lz4_desc_idx": 47
         },
         {
@@ -1119,7 +1129,7 @@
             "blob_idx": 110,
             "hash32": "0xeff49a63",
             "hash64": "0x370b03412596249e",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Memory.dll",
+            "file": "out/System.Memory.dll",
             "lz4_desc_idx": 48
         },
         {
@@ -1129,7 +1139,7 @@
             "blob_idx": 111,
             "hash32": "0x8334206b",
             "hash64": "0x6a3a4366801b8264",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Net.Http.dll",
+            "file": "out/System.Net.Http.dll",
             "lz4_desc_idx": 49
         },
         {
@@ -1139,7 +1149,7 @@
             "blob_idx": 112,
             "hash32": "0x88ffe49e",
             "hash64": "0x6ac9112a7e2cda5f",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Net.Mail.dll",
+            "file": "out/System.Net.Mail.dll",
             "lz4_desc_idx": 50
         },
         {
@@ -1149,7 +1159,7 @@
             "blob_idx": 113,
             "hash32": "0x8c40e0db",
             "hash64": "0x95ac8cfb68830758",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Net.Primitives.dll",
+            "file": "out/System.Net.Primitives.dll",
             "lz4_desc_idx": 51
         },
         {
@@ -1159,7 +1169,7 @@
             "blob_idx": 114,
             "hash32": "0x2d445acd",
             "hash64": "0x369840a8bfadc09b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Net.Requests.dll",
+            "file": "out/System.Net.Requests.dll",
             "lz4_desc_idx": 52
         },
         {
@@ -1169,7 +1179,7 @@
             "blob_idx": 115,
             "hash32": "0x7c9bf920",
             "hash64": "0x5faf683aead1ad72",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Numerics.Vectors.dll",
+            "file": "out/System.Numerics.Vectors.dll",
             "lz4_desc_idx": 53
         },
         {
@@ -1179,7 +1189,7 @@
             "blob_idx": 116,
             "hash32": "0x1dbae811",
             "hash64": "0x67ee71ff6b419e3f",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.ObjectModel.dll",
+            "file": "out/System.ObjectModel.dll",
             "lz4_desc_idx": 54
         },
         {
@@ -1189,7 +1199,7 @@
             "blob_idx": 117,
             "hash32": "0xf462c30d",
             "hash64": "0x76d841191140ca5b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Private.Uri.dll",
+            "file": "out/System.Private.Uri.dll",
             "lz4_desc_idx": 55
         },
         {
@@ -1199,7 +1209,7 @@
             "blob_idx": 118,
             "hash32": "0x739bd4a8",
             "hash64": "0xef1fd1b5c7a72d28",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Private.Xml.Linq.dll",
+            "file": "out/System.Private.Xml.Linq.dll",
             "lz4_desc_idx": 56
         },
         {
@@ -1209,7 +1219,7 @@
             "blob_idx": 119,
             "hash32": "0x79eb68ee",
             "hash64": "0x8b7d990c97ccccd3",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Private.Xml.dll",
+            "file": "out/System.Private.Xml.dll",
             "lz4_desc_idx": 57
         },
         {
@@ -1219,7 +1229,7 @@
             "blob_idx": 120,
             "hash32": "0x06ffddbc",
             "hash64": "0x9f6614bf0f8b71b6",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Runtime.InteropServices.dll",
+            "file": "out/System.Runtime.InteropServices.dll",
             "lz4_desc_idx": 58
         },
         {
@@ -1229,7 +1239,7 @@
             "blob_idx": 121,
             "hash32": "0x9ec4cf01",
             "hash64": "0x496ca6b869b72699",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Runtime.Loader.dll",
+            "file": "out/System.Runtime.Loader.dll",
             "lz4_desc_idx": 59
         },
         {
@@ -1239,7 +1249,7 @@
             "blob_idx": 122,
             "hash32": "0x62c6282e",
             "hash64": "0x22a7eb7046413568",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Runtime.dll",
+            "file": "out/System.Runtime.dll",
             "lz4_desc_idx": 60
         },
         {
@@ -1249,7 +1259,7 @@
             "blob_idx": 123,
             "hash32": "0x641f3e5a",
             "hash64": "0x7423997c6fd56140",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Security.Cryptography.dll",
+            "file": "out/System.Security.Cryptography.dll",
             "lz4_desc_idx": 61
         },
         {
@@ -1259,7 +1269,7 @@
             "blob_idx": 124,
             "hash32": "0x6cbab720",
             "hash64": "0xb05f29e50e96e90c",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Text.Encoding.Extensions.dll",
+            "file": "out/System.Text.Encoding.Extensions.dll",
             "lz4_desc_idx": 62
         },
         {
@@ -1269,7 +1279,7 @@
             "blob_idx": 125,
             "hash32": "0x028aa24d",
             "hash64": "0x0a6ba5a4da7d1ff8",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Threading.Thread.dll",
+            "file": "out/System.Threading.Thread.dll",
             "lz4_desc_idx": 63
         },
         {
@@ -1279,7 +1289,7 @@
             "blob_idx": 126,
             "hash32": "0xbff2e236",
             "hash64": "0xfa28e87b91334681",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Threading.dll",
+            "file": "out/System.Threading.dll",
             "lz4_desc_idx": 64
         },
         {
@@ -1289,7 +1299,7 @@
             "blob_idx": 127,
             "hash32": "0x8f24faee",
             "hash64": "0xcbe0dd1ca5233daf",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Web.HttpUtility.dll",
+            "file": "out/System.Web.HttpUtility.dll",
             "lz4_desc_idx": 65
         },
         {
@@ -1299,7 +1309,7 @@
             "blob_idx": 128,
             "hash32": "0xd128d608",
             "hash64": "0x5f6f85a57d108914",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Xml.Linq.dll",
+            "file": "out/System.Xml.Linq.dll",
             "lz4_desc_idx": 66
         },
         {
@@ -1309,7 +1319,7 @@
             "blob_idx": 129,
             "hash32": "0xea213423",
             "hash64": "0x329f6d1e86145474",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.Xml.ReaderWriter.dll",
+            "file": "out/System.Xml.ReaderWriter.dll",
             "lz4_desc_idx": 67
         },
         {
@@ -1319,7 +1329,7 @@
             "blob_idx": 130,
             "hash32": "0x41761b2c",
             "hash64": "0xe03056ea4e39aa26",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\System.dll",
+            "file": "out/System.dll",
             "lz4_desc_idx": 68
         },
         {
@@ -1329,7 +1339,7 @@
             "blob_idx": 131,
             "hash32": "0xc8a662e9",
             "hash64": "0x77b654e585b55834",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Java.Interop.dll",
+            "file": "out/Java.Interop.dll",
             "lz4_desc_idx": 3
         },
         {
@@ -1339,7 +1349,7 @@
             "blob_idx": 132,
             "hash32": "0xb65adef9",
             "hash64": "0x1500eaa8245f6c5b",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Mono.Android.Runtime.dll",
+            "file": "out/Mono.Android.Runtime.dll",
             "lz4_desc_idx": 31
         },
         {
@@ -1349,8 +1359,78 @@
             "blob_idx": 133,
             "hash32": "0xcf3163e6",
             "hash64": "0x01accec39cafe242",
-            "file": "C:\\node-jsxamstore-test\\data\\03-blobs-unpacked\\pyxamstore\\Mono.Android.dll",
+            "file": "out/Mono.Android.dll",
             "lz4_desc_idx": 32
+        },
+        {
+            "lz4": true,
+            "name": "System.Collections.Concurrent",
+            "store_id": 1,
+            "blob_idx": 0,
+            "hash32": "0x2814a96c",
+            "hash64": "0x1fc00515e8ce7513",
+            "file": "out/System.Collections.Concurrent.dll",
+            "lz4_desc_idx": 108
+        },
+        {
+            "lz4": true,
+            "name": "System.Collections",
+            "store_id": 1,
+            "blob_idx": 1,
+            "hash32": "0x1a61054f",
+            "hash64": "0x7198e33f4794aa70",
+            "file": "out/System.Collections.dll",
+            "lz4_desc_idx": 110
+        },
+        {
+            "lz4": true,
+            "name": "System.Collections.Immutable",
+            "store_id": 1,
+            "blob_idx": 2,
+            "hash32": "0x5833866d",
+            "hash64": "0x76377add7c28e313",
+            "file": "out/System.Collections.Immutable.dll",
+            "lz4_desc_idx": 109
+        },
+        {
+            "lz4": true,
+            "name": "System.Private.CoreLib",
+            "store_id": 1,
+            "blob_idx": 3,
+            "hash32": "0xad6f1e8a",
+            "hash64": "0x6b0ff375198b9c17",
+            "file": "out/System.Private.CoreLib.dll",
+            "lz4_desc_idx": 111
+        },
+        {
+            "lz4": true,
+            "name": "System.Text.Encodings.Web",
+            "store_id": 1,
+            "blob_idx": 4,
+            "hash32": "0x9930ee42",
+            "hash64": "0x2069600c4d9d1cfa",
+            "file": "out/System.Text.Encodings.Web.dll",
+            "lz4_desc_idx": 112
+        },
+        {
+            "lz4": true,
+            "name": "System.Text.Json",
+            "store_id": 1,
+            "blob_idx": 5,
+            "hash32": "0xc82afec1",
+            "hash64": "0xa88e1f1ebcb62fba",
+            "file": "out/System.Text.Json.dll",
+            "lz4_desc_idx": 113
+        },
+        {
+            "lz4": true,
+            "name": "System.Text.RegularExpressions",
+            "store_id": 1,
+            "blob_idx": 6,
+            "hash32": "0x61c036ca",
+            "hash64": "0x860e407c9991dd9b",
+            "file": "out/System.Text.RegularExpressions.dll",
+            "lz4_desc_idx": 114
         }
     ]
 }
